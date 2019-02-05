@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 9A5E-290C
+
+ Directory of C:\Users\gowris\Desktop\Javaprj
+
+02/05/2019  01:19 PM    <DIR>          .
+02/05/2019  01:19 PM    <DIR>          ..
+02/05/2019  01:19 PM                 0 abc.txt
+02/05/2019  01:18 PM               675 Hello.class
+02/05/2019  11:17 AM               157 Hello.java
+               3 File(s)            832 bytes
+               2 Dir(s)  118,294,835,200 bytes free
